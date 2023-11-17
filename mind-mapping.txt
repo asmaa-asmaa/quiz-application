@@ -1,0 +1,24 @@
+done
+create json object for questions
+start creating html markup 
+
+
+inprogress
+add dummy data
+create the styling
+fetch number of questions from json object
+show question count +questions category
+show the number of bullets depend on questions count
+set the number for the right and the wrong answer
+create countdown timer
+fetch the questions from the json object
+show first question
+check answer and mide question then show next one
+if the countdown timer end , mark the question as wrong and show next question
+add class on bullet after answering the question
+if questions finished show the result
+
+ideas
+many json objects and choose language
+add many questions and choose only ten randomly
+randomize answers ()
